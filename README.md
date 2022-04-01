@@ -20,6 +20,11 @@ The project is used for project where a user can rent a flat. The endpoints give
 ![](1.png)
 ![](2.png)
 
+## Preview Project Image
+
+- ![image](https://user-images.githubusercontent.com/54015740/161330959-1ca834db-0c40-4d24-bf43-43db716eaac2.png)
+
+
 ## Built With
 
 - Ruby on Rails
