@@ -20,10 +20,11 @@ The project is used for project where a user can rent a flat. The endpoints give
 ![](1.png)
 ![](2.png)
 
+---
+
 ## Preview Project Image
 
-- ![image](https://user-images.githubusercontent.com/54015740/161330959-1ca834db-0c40-4d24-bf43-43db716eaac2.png)
-
+- ![image](https://user-images.githubusercontent.com/54015740/161331165-97aa4411-a3cc-4c4f-9802-f9d504657cca.png)
 
 ## Built With
 
